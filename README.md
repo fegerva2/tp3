@@ -22,3 +22,21 @@ Este blog esta bueno como primer lectura para introducirnos en el tema ya que es
 ## 4. Casos De Aplicacion:Netflix
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 * [The Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b)
+
+
+### Redactar un informe sobre el material anterior:
+#### Preguntas Guia:
+1. Definir y Comparar y/o Diferenciar: Virtualización y containerización 
+2. ¿Que es una arquitectura de microservicios?
+3. ¿Que es y Para Que sirve un Orquestador de Micro Servicios?
+4. diferencias entre Docker y Kubernetes
+5. desarollar Su Aplicacion En Netflix
+
+#### Forma de Entrega:
+1. Entrar al [Aula TP3](https://classroom.github.com/classrooms/45367447-pioix-5to/assignments/tp3-virtualizacion-containerizacion-y-micro-servicios) , al seguir los pasos se va a generar un repositorio con una copia de estas consignas.
+2. Subir al repositorio un archivo Word con el informe
+
+nota: El Trabajo es opcional y para Levantar nota, entonces: si vas a copiar y pegar de internet o hacerlo sin ganas no entreges nada
+
+
+
