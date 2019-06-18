@@ -33,8 +33,8 @@ Este blog esta bueno como primer lectura para introducirnos en el tema ya que es
 5. desarollar Su Aplicacion En Netflix
 
 #### Forma de Entrega:
-1. Entrar al [Aula TP3](https://classroom.github.com/classrooms/45367447-pioix-5to/assignments/tp3-virtualizacion-containerizacion-y-micro-servicios) , al seguir los pasos se va a generar un repositorio con una copia de estas consignas.
-2. Subir al repositorio un archivo Word con el informe
+1. Entrar al [Aula TP3](https://classroom.github.com/a/ZyDp-4DF) , al seguir los pasos se va a generar un repositorio con una copia de estas consignas.
+2. Subir al repositorio un archivo Word con el informe, (y pone tu nombre en el nombre del archivo)
 
 nota: El Trabajo es opcional y para Levantar nota, entonces: si vas a copiar y pegar de internet o hacerlo sin ganas no entreges nada
 
