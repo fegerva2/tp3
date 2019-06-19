@@ -29,7 +29,7 @@ Este blog esta bueno como primer lectura para introducirnos en el tema ya que es
 2. ¿Que es una arquitectura de microservicios?
 3. ¿Que es y Para Que sirve un Orquestador de Micro Servicios?
 4. diferencias entre Docker y Kubernetes
-5. desarollar Su Aplicacion En Netflix
+5. desarollar el uso de microservicios de Netflix
 
 #### Forma de Entrega:
 1. Entrar al [Aula TP3](https://classroom.github.com/a/ZyDp-4DF) , al seguir los pasos se va a generar un repositorio con una copia de estas consignas.
